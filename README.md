@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/24fc1dcb-e5a4-4849-8e37-cb5108f0c5a6" /><div align="center">
 
 # ⚙️ Cristhian Bastidas
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/3ee16308-19d7-4a44-8c9e-690e09915773" />
+  <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/ea1a473e-37ea-446e-addb-8ff6dde2df5e" />
 
 </div>
 

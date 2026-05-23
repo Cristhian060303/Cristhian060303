@@ -12,6 +12,14 @@
 
 ---
 
+<div align="center">
+
+  <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/3ee16308-19d7-4a44-8c9e-690e09915773" />
+
+</div>
+
+---
+
 # 🚀 Sobre mí
 
 🎓 Ingeniero Mecatrónico de Ecuador 🇪🇨

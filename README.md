@@ -167,6 +167,20 @@ Diseño y análisis de controladores PID utilizando MATLAB y Simulink.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+<a href="https://github.com/Cristhian060303">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cristhian060303&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cristhian060303&layout=compact&langs_count=8&theme=algolia"/>
+
+</a>
+</p>
+
+---
+
 # 🌐 Conecta conmigo
 
 <p align="left">

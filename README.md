@@ -1,5 +1,3 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/24fc1dcb-e5a4-4849-8e37-cb5108f0c5a6" /><div align="center">
-
 # ⚙️ Cristhian Bastidas
 
 ### Robótica • Sistemas Embebidos • Automatización Inteligente • Software
